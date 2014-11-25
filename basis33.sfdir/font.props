@@ -1,0 +1,90 @@
+SplineFontDB: 3.0
+FontName: basis33
+FullName: basis33
+FamilyName: basis33
+Weight: Book
+Copyright: Copyright (c) 2004, 2005 Tristan Grimmer\nCopyright (c) 2014 Manchson\n \nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n \nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n \nTHE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Version: 0.3
+ItalicAngle: 0
+UnderlinePosition: 127
+UnderlineWidth: 51
+Ascent: 819
+Descent: 205
+InvalidEm: 0
+sfntRevision: 0x00010000
+LayerCount: 2
+Layer: 0 1 "Back" 1
+Layer: 1 1 "Fore" 0
+XUID: [1021 501 1544289475 15179]
+FSType: 4
+OS2Version: 2
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1416940969
+ModificationTime: 1416943759
+PfmFamily: 81
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 0
+VLineGap: 0
+Panose: 2 0 6 9 0 0 0 0 0 0
+OS2TypoAscent: 576
+OS2TypoAOffset: 0
+OS2TypoDescent: -192
+OS2TypoDOffset: 0
+OS2TypoLinegap: 0
+OS2WinAscent: 704
+OS2WinAOffset: 0
+OS2WinDescent: 320
+OS2WinDOffset: 0
+HheadAscent: 704
+HheadAOffset: 0
+HheadDescent: -320
+HheadDOffset: 0
+OS2SubXSize: 512
+OS2SubYSize: 512
+OS2SubXOff: 0
+OS2SubYOff: -96
+OS2SupXSize: 512
+OS2SupYSize: 512
+OS2SupXOff: 0
+OS2SupYOff: 512
+OS2StrikeYSize: 51
+OS2StrikeYPos: 204
+OS2CapHeight: 0
+OS2XHeight: 0
+OS2Vendor: 'FSTR'
+OS2CodePages: 000001ff.00000000
+OS2UnicodeRanges: 80000897.000000ca.00000000.00000000
+MarkAttachClasses: 1
+DEI: 91125
+ShortTable: maxp 16
+  1
+  0
+  416
+  52
+  13
+  0
+  0
+  2
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+EndShort
+LangName: 1033 "" "" "Regular" "basis33 : 25-11-2014" "" "0.3" "" "" "" "Tristan Grimmer, Manchson" "basis33 is a fixed-width font for programming and text editing, which contains Latin, Cyrillic and Hebrew glyphs. It's designed by Manchson based on Latin-only Proggy Clean font by Tristan Grimmer.+AAoA" "" "" "MIT/Expat" "" "" "" "" "" "Five big quacking zephyrs jolt my wax bed"
+Encoding: UnicodeBmp
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 1022 14 10
+BeginPrivate: 0
+EndPrivate
+TeXData: 1 0 0 458752 229376 152917 393216 1048576 152917 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+EndSplineFont
